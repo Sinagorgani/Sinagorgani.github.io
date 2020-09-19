@@ -1,0 +1,86 @@
+
+.paazl_perfect_heading th {
+
+}
+.paazl_perfect_content td {
+
+}
+
+.paazl_perfect_content .paazl_perfect_content_description {
+    font-weight: normal !important;
+    font-size: smaller;
+}
+
+.paazl_perfect_item {
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+
+    margin-bottom: 3px;
+
+    cursor: pointer;
+}
+
+.paazl_perfect_item.paazl_perfect_item_selected {
+    border-width: 3px;
+    background: #f1f1f1;
+}
+
+.paazl_perfect_item:hover {
+    background: #f1f1f1;
+}
+
+.paazl_perfect_item .paazl_perfect_item_check {
+    float: left;
+
+    width: 10%;
+    padding: 10px;
+}
+
+.paazl_perfect_item .paazl_perfect_item_label {
+    float: left;
+
+    width: 20%;
+    padding: 10px;
+}
+.paazl_perfect_item .paazl_perfect_item_option {
+    float: left;
+
+    width: 50%;
+    padding: 10px;
+}
+
+.paazl_perfect_item .paazl_perfect_item_carrier {
+    float: left;
+
+    width: 8%;
+    padding: 10px;
+}
+
+.paazl_perfect_item .paazl_perfect_item_costs {
+    float: left;
+
+    width: 12%;
+    padding: 10px;
+
+    white-space: nowrap;
+}
+
+.woocommerce-Price-currencySymbol {
+    padding-right: 5px;
+    margin-bottom: 4px;
+}
+
+.paazl_perfect_item:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.paazl_perfect_loading {
+    background-image: url('./ajax-loader.gif');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
