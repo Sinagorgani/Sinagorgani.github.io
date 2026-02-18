@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="260"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="260"><svg width="260" height="260" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#697490" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+
+    <!-- far left -->
+    <path d="M55 150 L100 55"></path>
+
+    <!-- left -->
+    <path d="M75 150 L100 50"></path>
+
+    <!-- center -->
+    <path d="M100 150 L100 40"></path>
+
+    <!-- right -->
+    <path d="M125 150 L100 50"></path>
+
+    <!-- far right -->
+    <path d="M145 150 L100 55"></path>
+
+  </g>
+</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
